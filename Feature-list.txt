@@ -1,1 +1,4 @@
 1. Using Robot Operating System for Backend Robotics
+2. Using Ruby On Rails for Web Interface
+3. Using STMicrocontroller for Embbeded hardware controller
+4. Using IntelNuc for Processor
