@@ -2,3 +2,5 @@
 2. Using Ruby On Rails for Web Interface
 3. Using STMicrocontroller for Embbeded hardware controller
 4. Using IntelNuc for Processor
+5. Using Nextion for HMI robot
+6. Using Motor DC 450W for Actuator
