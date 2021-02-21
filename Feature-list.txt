@@ -4,3 +4,4 @@
 4. Using IntelNuc for Processor
 5. Using Motor DC 450 Watt + Encoder for Actuators
 6. Using BMS for Battery Management System
+7. Using Nextion for HMI robot
